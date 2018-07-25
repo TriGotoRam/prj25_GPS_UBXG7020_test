@@ -1,0 +1,1 @@
+Test board on UBX-G7020-KT
